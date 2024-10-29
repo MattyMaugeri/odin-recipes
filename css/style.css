@@ -1,0 +1,22 @@
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 48px;
+}
+
+.hp-list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hp-links {
+    text-decoration: none;
+    padding: 5px 32px;
+}
+
+#lasagna {
+    width: 400px;
+    height: 300px;
+}
